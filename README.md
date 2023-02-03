@@ -1,5 +1,5 @@
 # Noisy Sentences Dataset
-500K sentences in 5 European languages augmented with noise for training and evaluating spell correction tools or machine learning models. We have constructed our dataset to cover representatives from the language families used across Europe.
+550K sentences in 5 European languages augmented with noise for training and evaluating spell correction tools or machine learning models. We have constructed our dataset to cover representatives from the language families used across Europe.
 - Germanic - English, German;
 - Romance - French;
 - Slavic - Bulgarian;
@@ -9,6 +9,8 @@
 
 *   **train.csv** - the training set
 *   **test.csv** - the test set
+
+Because of an ongoing [Kaggle competition](https://www.kaggle.com/competitions/ml-olympiad-multilingual-spell-correction/), the testing set labels will be released in March 2023.
 
 ## Columns
 
