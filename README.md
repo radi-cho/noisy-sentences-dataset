@@ -5,6 +5,8 @@
 - Slavic - Bulgarian;
 - Turkic - Turkish;
 
+**Use case example:** Apply language models or other techniques to compare the sentence pairs and reconstruct the original sentences from the augmented ones. You can use a single multilingual solution to solve the challenge or employ multiple models/techniques for the separate languages. Per-word dictionary lookup is also an option.
+
 ## Files
 
 *   **train.csv** - the training set
